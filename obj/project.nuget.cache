@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3zfZ6fFQ2iQnLBzWXLBSpfREOKmAF64jNo3aeZcOrIQC5aIJgnrRtSa2UCHIn9CZ40ij1uuFHyyRrGVFsuFi7w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\leona\\Desktop\\www\\.NET\\mycode\\mycode.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leona\\.nuget\\packages\\fluentcolorconsole\\2.0.1\\fluentcolorconsole.2.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
